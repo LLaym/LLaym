@@ -1,5 +1,5 @@
-<h1 align="center">Hey there 👋, I'm Vitaly</h1>
-<h3 align="center">A passionate backend developer from Russia</h3>
+<h1 align="left">Hey there 👋, I'm Vitaly</h1>
+<h3 align="left">A passionate backend developer from Russia</h3>
 
 - 🌱 Currently learning **Spring**
 - ⚡ Using GNU/Linux as my main OS
