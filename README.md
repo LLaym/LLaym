@@ -1,5 +1,3 @@
-<img src="https://github.com/LLaym/LLaym/assets/113213520/f4302fcc-7392-4532-8571-7d6b1edf1d46" align="right"/>
-
 <h1 align="center">Hey there 👋, I'm Vitaly</h1>
 <h3 align="center">A passionate backend developer from Russia</h3>
 
