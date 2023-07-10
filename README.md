@@ -22,6 +22,8 @@ A passionate backend developer from Moscow. Learning technologies that I found i
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 </p>
 
+
+**:bar_chart: This week I spent my time on:**
 <!--START_SECTION:waka-->
 
 ```txt
