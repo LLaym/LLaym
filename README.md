@@ -23,4 +23,22 @@ A passionate backend developer from Moscow. Learning technologies that I found i
 </p>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 26 May 2023 - To: 09 July 2023
+
+Total Time: 128 hrs 6 mins
+
+Java                  112 hrs 50 mins >>>>>>>>>>>>>>>>>>>>>>---   88.08 %
+Markdown              4 hrs 3 mins    >------------------------   03.17 %
+SQL                   3 hrs 50 mins   >------------------------   03.00 %
+XML                   3 hrs 14 mins   >------------------------   02.53 %
+YAML                  2 hrs 5 mins    -------------------------   01.63 %
+Properties            1 hr 23 mins    -------------------------   01.08 %
+GitIgnore file        27 mins         -------------------------   00.36 %
+Text                  6 mins          -------------------------   00.08 %
+HTTP Request          2 mins          -------------------------   00.04 %
+IDEA_MODULE           1 min           -------------------------   00.02 %
+```
+
 <!--END_SECTION:waka-->
