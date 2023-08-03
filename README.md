@@ -1,5 +1,6 @@
-### Hey there 👋 I'm Vitaly, 
+# Hey there 👋 I'm Vitaly, 
 A passionate backend developer from Moscow. Learning technologies that I found interesting.
+***
 - 🌱 Currently learning **Spring**
 - ⚡ Using GNU/Linux as my main OS
 - 🤝 Love Open-Source
@@ -7,7 +8,7 @@ A passionate backend developer from Moscow. Learning technologies that I found i
 - 🔭 Always study
 - 🖥️ Working on ThinkPad T480 with some upgrades
 
-**Languages and Tools:**
+## :hammer_and_wrench: Languages and Tools:
 <p align="left">
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
@@ -23,7 +24,7 @@ A passionate backend developer from Moscow. Learning technologies that I found i
 </p>
 
 
-**:bar_chart: This week I spent my time on:**
+## :bar_chart: This week I spent my time on:
 <!--START_SECTION:waka-->
 
 ```txt
