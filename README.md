@@ -29,10 +29,10 @@ A passionate backend developer from Moscow. Learning technologies that I found i
 <!--START_SECTION:waka-->
 
 ```txt
-Java             46 hrs 51 mins  ████████████████████████░   96.03 %
-YAML             56 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-SQL              46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-CSV/TSV          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Java             45 hrs 34 mins  ███████████████████████▓░   94.99 %
+YAML             1 hr 27 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+SQL              44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Docker           5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 XML              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
