@@ -1,12 +1,10 @@
 # Hey there 👋 I'm Vitaly, 
-A passionate backend developer from Moscow. Learning technologies that I found interesting.
 ***
-- 🌱 Currently learning **Spring**
-- ⚡ Using GNU/Linux as my main OS
-- 🤝 Love Open-Source
-- 📝 Using Notion as my second brain
-- 🔭 Always study
-- 🖥️ Working on ThinkPad T480 with some upgrades
+I am backend Java Developer from Moscow. Learning technologies that I found interesting.
+Currently leveling in algorithms.
+
+Love to use GNU/Linux and Open-Source software. Using Notion with Obsidian as my second brain. Working on ThinkPad T480 with some upgrades
+
 
 ### :hammer_and_wrench: Languages and Tools:
 
