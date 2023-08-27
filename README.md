@@ -1,6 +1,6 @@
 # Hey there 👋 I'm Vitaly, 
 ***
-I am backend Java developer from Moscow. I learn technologies that I find interesting. Currently leveling in algorithms.
+I am backend Java developer from Moscow. I learn technologies that I find interesting. Currently leveling in algorithms and data structures.
 
 I like to use GNU /Linux and open source software. Use Notion with Obsidian as my second brain. I work on a ThinkPad T480 with some upgrades and use the Pomodoro technique for work.
 
