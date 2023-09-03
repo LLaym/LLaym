@@ -26,8 +26,8 @@ I like to use GNU /Linux and open source software. Use Notion with Obsidian as m
 <!--START_SECTION:waka-->
 
 ```txt
-Java       34 hrs 4 mins   █████████████████████████   99.82 %
-Markdown   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Java       28 hrs 36 mins  ████████████████████████░   96.25 %
+Markdown   1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
 ```
 
 <!--END_SECTION:waka-->
