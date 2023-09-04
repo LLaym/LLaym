@@ -31,8 +31,3 @@ Markdown   2 hrs 31 mins   ██▓░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-### :link: Connect:
-
-[![Telegram](https://img.shields.io/badge/kerneel_panic%20-%232CA5E0.svg?&style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/kerneel_panic)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitaly-romanov/)
