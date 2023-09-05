@@ -1,11 +1,16 @@
-# Hey there 👋 I'm Vitaly, 
-***
-I am backend Java developer from Moscow. I learn technologies that I find interesting. Currently leveling in algorithms and data structures.
+## 🙋‍♂️ Привет! Меня зовут Романов Виталий
+Я бэкенд разработчик из Москвы. Уверенно пишу на Java и фреймворке Spring. (ранее писал на python). Всегда покрываю тестами свой код и понимаю, что это важно.
 
-I like to use GNU /Linux and open source software. Use Notion with Obsidian as my second brain. I work on a ThinkPad T480 with some upgrades and use the Pomodoro technique for work.
+Немного интересных фактов обо мне:
+- Люблю GNU/Linux и использую его как основную ОС.
+  
+- Веду книгу знаний (второй мозг) в Obsidian.
+  
+- В данный момент мой девайс любимчик - прокаченный ThinkPad T480 с Arch Linux на борту.
+  
+- Использую технику помидора в повседневных задачах для выполнения задач.
 
-
-### :hammer_and_wrench: Languages and Tools:
+**Стек:** Java, Spring, JUnit, PostgreSQL, Git, Docker
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
