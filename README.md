@@ -21,13 +21,3 @@ I like to use GNU /Linux and open source software. Use Notion with Obsidian as m
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-
-### :bar_chart: This week I spent my time on:
-<!--START_SECTION:waka-->
-
-```txt
-Java       14 hrs 25 mins  █████████████████████▒░░░   85.14 %
-Markdown   2 hrs 31 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 %
-```
-
-<!--END_SECTION:waka-->
