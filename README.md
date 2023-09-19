@@ -1,7 +1,6 @@
 ## 🙋‍♂️ Привет! Меня зовут Романов Виталий
-Я бэкенд разработчик из Москвы. Пишу на Java и Spring.
 
-**Стек:** Java, Spring, JUnit, PostgreSQL, Git, Docker
+**Мой стек:** Java, Spring, JUnit, PostgreSQL, Git, Docker
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -28,7 +27,7 @@
 
 - Люблю GNU/Linux и использую его как основную ОС
   
-- Веду книгу знаний (второй мозг) в Obsidian
+- Веду книгу знаний (second brain) в Obsidian
   
 - В данный момент мой девайс любимчик - прокаченный ThinkPad T480 с Arch Linux на борту
   
